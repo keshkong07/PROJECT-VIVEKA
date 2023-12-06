@@ -6,3 +6,4 @@ pip install Pyqt5
 pip install libretranslatepy
 pip install mosestokenizer
 pip install python-docx
+![Screenshot (141)](https://github.com/keshkong07/PROJECT-VIVEKA/assets/117116474/1c70e30b-88ef-4462-aea9-2c6f0062ee34)
