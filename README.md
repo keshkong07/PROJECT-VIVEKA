@@ -7,3 +7,5 @@ pip install libretranslatepy
 pip install mosestokenizer
 pip install python-docx
 ![Screenshot (141)](https://github.com/keshkong07/PROJECT-VIVEKA/assets/117116474/1c70e30b-88ef-4462-aea9-2c6f0062ee34)
+![Screenshot (142)](https://github.com/keshkong07/PROJECT-VIVEKA/assets/117116474/00b82971-d3d5-4e18-bfa8-c7c2a36d342b)
+![Uploading Screenshot (143).png…]()
